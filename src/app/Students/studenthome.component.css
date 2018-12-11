@@ -1,0 +1,74 @@
+.jumbo{
+    /* width: 100vw; */
+    /* padding: 15px 20px 50px 50px; */
+    /* background-color: rgb(129, 125, 125); */
+    margin-top: 60px;
+    /* border: 1px solid rgb(37, 33, 33); */
+    position: relative;
+    width: 100%;
+}
+
+
+.list{
+    width: 100%;
+    margin-top: 65px;
+    height: 7vh;
+    background-color: rgb(37, 33, 33);
+    padding: 10px 10px;
+}
+.listItem{
+    list-style: none;
+    padding: 2vh 2vw;
+    display: inline;
+    font-size: 1.3em;
+    color: #9d9d9d;
+}
+
+.activeItem{
+    color: white;
+}
+
+.notification-box{
+    /* height: 72vh; */
+    border-radius: 5px;
+    border: 1px solid black;
+    height: 50%;
+    /* background-color: rgb(37, 33, 33); */
+}
+.userBody{
+    margin: 2px;
+    height: 72vh;
+}
+
+.notification-header{
+    padding: 10px 0px;
+    margin: 2px;
+    text-align: center;
+    /* color: white; */
+    position: relative;
+    /* background-color: black; */
+    width: 100%;
+    font-size: 1.2em;
+}
+.notification-body{
+    /* background-color: white; */
+    position: relative;
+    
+}
+
+.student-profile{
+    /* height: 72vh; */
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 50px 50px;
+    margin: 2px;
+    height: 100%;
+}
+
+.profile-photo{
+    border-radius: 5px;
+    /* padding: 50px 50px; */
+    float: right;
+    margin: 2px;
+    height: 20vh;
+}
